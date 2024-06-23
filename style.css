@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+nav {
+    height: 5vw;
+    background-color: gray;
+    text-align: center;
+}
+
+.container {
+    width: 22vw;
+    height: auto;
+    background-color: beige;
+    text-align: justify;
+    border: 5px solid rgb(101, 81, 73);
+    border-radius: 10%;
+    margin: 1%;
+    display: inline-block;
+}
+
+.container p {
+    padding: 5% 5% 5% 10%;
+    margin: 0;
+}
+
+.full-container {
+    background-color: rgb(226, 197, 133);
+}
